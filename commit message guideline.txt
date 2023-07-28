@@ -1,0 +1,23 @@
+Commit Conventional
+<type>(scope)"optional": <description> <ticket number>
+
+<body>"optional"
+<footer>"optional"
+
+<type>
+1. build :
+2. change :
+3. chore :
+4. ci :
+5. deprecate :
+6. docs :
+7. feat :
+8. fix : 
+9. ops :
+10. perf :
+11. refactor :
+12. remove :
+13. revert :
+14. security :
+15. style :
+16. test :
