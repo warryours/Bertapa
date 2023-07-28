@@ -1,5 +1,5 @@
 Commit Conventional
-<type>(scope)"optional": <description> <ticket number>
+<type>(scope)"optional": <description> <ticket number> "optional for JIRA"
 
 <body>"optional"
 <footer>"optional"
