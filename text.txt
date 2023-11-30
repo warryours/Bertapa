@@ -1,2 +1,3 @@
 ini adalah contoh tambah file
 tambah file text
+tambah file 2
